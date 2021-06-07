@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 NEWS_API_KEY = 'fc005049647046a5a0538fead2b71a42'
+SECRET_KEY = 'FLASK WTF Secret key'
+=======
+NEWS_API_KEY='fc005049647046a5a0538fead2b71a42'
+>>>>>>> master
 SECRET_KEY = 'FLASK WTF Secret key'
