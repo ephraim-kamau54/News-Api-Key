@@ -25,20 +25,13 @@ class NewTest(unittest.TestCase):
         self.assertEquals(self.new_source.country,'USA')
         self.assertEquals(self.new_source.language,'en')
 
-<<<<<<< HEAD
 
 
         class ArticlesTest(unittest.TestCase):
-    '''
-        class to test the Articles class
-    '''
+            '''
+            class to test the Articles class
+            '''
     
-=======
-        class ArticlesTest(unittest.TestCase):
-    '''
-    class to test the Articles class
-    '''
->>>>>>> master
     def setUp(self):
         '''
         method that will run before our test
