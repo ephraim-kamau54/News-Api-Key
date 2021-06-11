@@ -8,9 +8,10 @@ In context, your parents are busy workers and they get home really late. They al
 
 ## Technology use
 
-.Python3.8
-.shell
-.ubuntu windows
+* Python3.8
+* shell
+* git 
+* heroku
 
 ## User Story
 
