@@ -9,7 +9,7 @@ In context, your parents are busy workers and they get home really late. They al
 ## Technology use
 
 .Python3.8
-.terminal
+.shell
 .ubuntu windows
 
 ## User Story
